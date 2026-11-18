@@ -1,5 +1,5 @@
 # Build-a-Redundant-Campus-Triangle
-# What you practised #
+# What I practised #
 
 Read the working two-branch campus
   Establish the intact path and preserve it while adding redundancy.
